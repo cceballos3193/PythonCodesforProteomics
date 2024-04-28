@@ -1,0 +1,1 @@
+This code was created for a graduate class, Environmental Data Science. It assumes you have 2 files called CC1 Raw Data and CC2 Raw Data. If you would like to access the data, please contact me directly. This code takes you step by step through preparing data for basic proteomics analysis following examples in literature in the field. 
